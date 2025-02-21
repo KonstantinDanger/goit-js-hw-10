@@ -1,9 +1,8 @@
 .header {
-  padding: 20px 0;
+  padding: 10px 0;
 }
 .nav {
-  display: flex;
-  justify-content: space-between;
+  text-align: left;
 }
 .nav-logo {
   display: inline-flex;
@@ -11,9 +10,8 @@
   justify-content: center;
 }
 .nav-list {
-  display: flex;
+  display:block;
   align-items: center;
-  justify-content: flex-end;
   gap: 40px;
 }
 .nav-link {

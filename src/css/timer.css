@@ -1,0 +1,21 @@
+.timer{
+    text-align: left;
+    width: max-content;
+    margin: auto;
+}
+
+.fields{
+    margin-top: 8px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    padding: 5px;
+}
+
+.field{
+    border-bottom: 1px solid rgb(192, 192, 192);
+}
+
+.value{
+    width: 100px;
+}
